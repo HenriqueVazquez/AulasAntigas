@@ -1,0 +1,21 @@
+
+.container {
+    display: flex;
+    justify-content: space-between; 
+    height: 95vh;
+    gap: 1rem;
+
+
+}
+aside {
+    background-color: lightblue;
+    flex: 1;
+    border: 2px solid ;
+    
+}
+
+main{
+    background-color: lightcoral;
+    flex: 3;
+    border: 2px solid ;
+}

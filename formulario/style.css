@@ -1,0 +1,13 @@
+
+form, fieldset, label, input{
+    display: block;
+    width: 200px;
+}
+button { 
+    position: relative;
+    left: 39%;
+}
+
+#name, #email, #message {
+    margin-bottom: 20px;
+}
